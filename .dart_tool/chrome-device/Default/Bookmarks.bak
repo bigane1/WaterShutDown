@@ -1,0 +1,50 @@
+{
+   "checksum": "b6d6e0ff71f4cd6d1467031a8f99701f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13277948242208716",
+            "date_last_used": "0",
+            "guid": "131545ab-4ad4-44f4-b222-1d1d971150ad",
+            "id": "5",
+            "name": "GitHub - SMSPartner/sdk-php",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/SMSPartner/sdk-php"
+         } ],
+         "date_added": "13323739217723033",
+         "date_last_used": "0",
+         "date_modified": "13277948242208716",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre des favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13323739217723038",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13323739217723041",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris de l’appareil mobile",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCJkbCfyGAQAAEgAgASoYNXhpNmp3aEJrQnFtcXpNVWtzWVBtQT09oAYMEqcBCAUSogEKHGVVeHFtbmo2OTlKMXNVRGxZUCttZXdtVCtHQT0SJDEzMTU0NWFiLTRhZDQtNDRmNC1iMjIyLTFkMWQ5NzExNTBhZBgAIAIoAjCsxaDg7zA4zKTF5tAwQMahoODvMEocMXFiSlpsMjdiSEppb1ZEQUM0YXVzYUwxU3lVPVoeIhxkdk5uelU4UVQyQmhPdUk4emdkZWY2VzZLRzQ9ZSjQ4akSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNDExZjc2MWEtN2Q5MC01YjdmLWIwMGEtYjg2NTQyYzU1MTlmGAAgACgAMKujyKa7LjinptLk6y9Ap6bS5OsvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRlOWE2MjY3MC1mNTc2LTVkOWEtYmViMS1mNGY4NTdmNjZjNzQYACAAKAAwrKPIprsuOLam0uTrL0C2ptLk6y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDdiMGIwMzdlLTYyZDEtNTNmZS04OTZjLTU4ZWE2ZjVkYTU2ZRgAIAAoADCwo8imuy44pKfS5OsvQKSn0uTrL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}
